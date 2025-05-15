@@ -30,7 +30,10 @@ const LandingPage = () => {
       <div
         style={{ position: "fixed", top: "4rem", right: "1rem", zIndex: 999 }}
       >
-        <button onClick={toggleMusic} className="bg-gray-900 text-white px-4 py-2 rounded-md hover:bg-gray-700 transition cursor-pointer">
+        <button
+          onClick={toggleMusic}
+          className="bg-gray-900 text-white px-4 py-2 rounded-md hover:bg-gray-700 transition cursor-pointer"
+        >
           {isPlaying ? "Pause Music" : "Play Music"}
         </button>
 
@@ -146,7 +149,7 @@ const LandingPage = () => {
               />
 
               <p className="text-gray-700 leading-relaxed">
-                Dengan menghubungkan pembeli dan penitip barang secara langsung, 
+                Dengan menghubungkan pembeli dan penitip barang secara langsung,
                 <strong>JastipKu</strong> menghadirkan solusi praktis bagi
                 mereka yang ingin mendapatkan produk dari berbagai belahan dunia
                 tanpa harus bepergian. Kami percaya bahwa jarak seharusnya tidak
@@ -202,8 +205,9 @@ const LandingPage = () => {
             />
 
             <p className="text-lg">
-              Dapatkan sepatu <em>trendy</em> dari luar negeri hanya dengan{" "}
-              <strong>Rp 1.200.000</strong>. Pengiriman cepat dan terpercaya!
+              Lihat sepatu <em>sports</em> dari brand terkenal hanya dengan{" "}
+              <strong>Rp 2.500.000</strong>. Barang original dan aman sampai
+              tujuan!
             </p>
           </div>
           <div className="card">
@@ -219,8 +223,9 @@ const LandingPage = () => {
             />
 
             <p className="text-lg">
-              Dapatkan sepatu <em>trendy</em> dari luar negeri hanya dengan{" "}
-              <strong>Rp 1.200.000</strong>. Pengiriman cepat dan terpercaya!
+              Dapatkan promo<em>tas dan backpack</em> dengan kualitas bahan
+              terbaik sampai <strong>Rp 5.000.000</strong>. Proteksi barang
+              terjamin dan sesuai pesanan!
             </p>
           </div>
           <div className="card">
@@ -236,8 +241,9 @@ const LandingPage = () => {
             />
 
             <p className="text-lg">
-              Dapatkan sepatu <em>trendy</em> dari luar negeri hanya dengan{" "}
-              <strong>Rp 1.200.000</strong>. Pengiriman cepat dan terpercaya!
+              Segera dapatkan <em>tas wanita</em> dari brand dan kualitas
+              terpercaya dari harga <strong>Rp 2.500.000</strong>. Jasa kami
+              menjamin barang terlindungi!
             </p>
           </div>
         </div>
