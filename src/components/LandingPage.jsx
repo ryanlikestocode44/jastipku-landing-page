@@ -223,7 +223,7 @@ const LandingPage = () => {
             />
 
             <p className="text-lg">
-              Dapatkan promo<em>tas dan backpack</em> dengan kualitas bahan
+              Dapatkan promo <em>tas dan backpack</em> dengan kualitas bahan
               terbaik sampai <strong>Rp 5.000.000</strong>. Proteksi barang
               terjamin dan sesuai pesanan!
             </p>
@@ -242,7 +242,7 @@ const LandingPage = () => {
 
             <p className="text-lg">
               Segera dapatkan <em>tas wanita</em> dari brand dan kualitas
-              terpercaya dari harga <strong>Rp 2.500.000</strong>. Jasa kami
+              terpercaya dari harga <strong>Rp 3.500.000</strong>. Jasa kami
               menjamin barang terlindungi!
             </p>
           </div>
