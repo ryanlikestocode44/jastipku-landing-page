@@ -10,9 +10,9 @@
 
 ## 📌 Deskripsi Website
 
-**JastipKu** adalah sebuah website simulasi layanan *jasa titip* berbasis multimedia yang dirancang untuk memenuhi tugas ujian Lab TI Sistem Multimedia. Website ini menawarkan tampilan yang interaktif, informatif, dan responsif yang memungkinkan pengguna menjelajahi berbagai produk yang tersedia untuk dititipkan melalui layanan Jastip.
+**JastipKu** adalah sebuah website simulasi layanan *jasa titip* berbasis multimedia yang dirancang untuk memenuhi tugas ujian Lab TI Sistem Multimedia. Website ini merupakan landing page sederhana yang menawarkan tampilan yang interaktif dan informatif yang memungkinkan pengguna berinteraksi dengan halaman utama website layanan jasa titip dengan beberapa konten penawaran barang.
 
-Website ini juga dirancang untuk menampilkan elemen-elemen multimedia yang lengkap, menciptakan pengalaman pengguna yang kaya secara visual dan informatif.
+Website ini juga dirancang untuk menampilkan elemen-elemen multimedia, yang memberikan improvisasi pengalaman pengguna secara visual dan informatif.
 
 ---
 
